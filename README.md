@@ -49,6 +49,7 @@ Interested in Embedded Software Engineering , Space Technology and Satellites sy
 flowmeter TUF-2000M , get water depth in tanks using levelmeter and the pressure in pipes usingPerssure sensors
 The board is based on Atmega2560 and acting as a webserver through Ethernet module W5100 , connected on the same
 network with the main PC that is a client send requests to board to get data and conterol some motors
+- [Demo](https://github.com/eslamshahin0/SmartIrrigationSystem)
 
 #### *ARM FOTA*
 - Implement Firmware Over The Air concept on STM32f103 by making a custom bootloader on the target
