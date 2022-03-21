@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/eslamshahin0/eslamshahin0/blob/main/cover.jpg)
 
-
+![](https://komarev.com/ghpvc/?username=eslamshahin0&color=green)
 <!-- welcome message -->
 ### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Eslam Shahin 
 <!-- ### Hi there 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
